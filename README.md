@@ -36,6 +36,14 @@
   }
 }
 ```
+在pubspec.yaml中：
+```json
+dependencies:
+    i18nstr: x.x.x
+flutter:
+   assets:
+    - ./i18n/
+```
  
  在main.dart中：
  ```dart

@@ -1,8 +1,8 @@
 name: i18nstr
 description: 一个国际化字符串flutter插件.
 version: 0.0.1
-author: yw
-homepage:
+author: yanwei <fy126126@qq.com>
+homepage: https://github.com/hexiekuaile/i18nstr
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -28,7 +28,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.i18nstr
+        package: com.yw.i18nstr
         pluginClass: I18nstrPlugin
       ios:
         pluginClass: I18nstrPlugin

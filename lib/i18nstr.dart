@@ -89,7 +89,6 @@ class I18nstr {
       matches.forEach((Match m) {
         String s2 = valueOf(m.group(0));
         String s1 = '<<${m.group(0)}>>';
-        //print('$s1 $s2');
         value = value.replaceAll(s1, s2);
       });
     }
@@ -126,7 +125,6 @@ class I18nDelegate extends LocalizationsDelegate<I18nstr> {
   //系统回调方法，loca始终是安卓手机语言设置列表第0个
   @override
   Future<I18nstr> load(Locale locale) async {
-    print('ssssss $locale $_loc');
     _loc = _loc ?? locale; //这句是关键，构造方法的参数优先
     I18nstr str = await I18nstr.load(_loc);
 

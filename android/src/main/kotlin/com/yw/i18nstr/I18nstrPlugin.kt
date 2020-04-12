@@ -1,4 +1,4 @@
-package com.example.i18nstr
+package com.yw.i18nstr
 
 import androidx.annotation.NonNull;
 
