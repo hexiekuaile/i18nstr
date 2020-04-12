@@ -1,0 +1,19 @@
+{
+  "supportedLocales": "zh_CN,en_US,ja_JP",
+  "chinese": "中文",
+  "english": "英语",
+  "title": "国际化字符串插件测试",
+  "ip": "172.16.40.101:1112",
+  "system": "xx系统",
+  "pushedTimes": "按键 {0} - {1} 次",
+  "animal": "动物: ::dog:: ::cat:: ",
+  "a": {
+    "firstPage": "首页"
+  },
+  "c": {
+    "commit": "录入  ",
+    "info": "信息",
+    "metaInfo": "基础信息",
+    "URL_saveRow": "http://<<ip>>/entity/"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "supportedLocales": "ru_RU",
+  "chinese": "chinese",
+  "english": "engliesh",
+  "title": "Internationalization string plug-in test",
+  "ip": "172.16.40.101:1112",
+  "system": "xx System",
+  "pushedTimes": "pushed {0} - {1} times",
+  "animal": "animal: ::dog:: ::cat:: ",
+  "a": {
+    "firstPage": "firstPage"
+  },
+  "c": {
+    "commit": "录入  ",
+    "info": "信息",
+    "metaInfo": "基础信息",
+    "URL_saveRow": "http://<<ip>>/entity/"
+  }
+}
