@@ -1,17 +1,3 @@
-/*import 'dart:async';
-
-import 'package:flutter/services.dart';
-
-class I18nstr {
-  static const MethodChannel _channel =
-      const MethodChannel('i18nstr');
-
-  static Future<String> get platformVersion async {
-    final String version = await _channel.invokeMethod('getPlatformVersion');
-    return version;
-  }
-}*/
-
 //import 'package:flutter/cupertino.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart';

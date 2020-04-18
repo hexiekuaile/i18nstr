@@ -1,7 +1,6 @@
 name: i18nstr
 description: 一个国际化字符串flutter插件.
 version: 0.0.1
-author: yanwei <fy126126@qq.com>
 homepage: https://github.com/hexiekuaile/i18nstr
 
 environment:

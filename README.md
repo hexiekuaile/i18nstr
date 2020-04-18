@@ -36,10 +36,11 @@
   }
 }
 ```
+https://pub.dev/packages/i18nstr/versions/0.0.1
 在pubspec.yaml中：
 ```json
 dependencies:
-    i18nstr: x.x.x
+    i18nstr: 0.01
 flutter:
    assets:
     - ./i18n/
