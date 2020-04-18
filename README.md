@@ -1,7 +1,8 @@
 # i18nstr
 
 一个flutter国际化插件
-
+https://pub.dev/packages/i18nstr/versions/0.0.1
+https://github.com/hexiekuaile/i18nstr
 ## 特性
 
 可用于web、Android ，iOS未测试。
@@ -37,10 +38,11 @@
 }
 ```
 https://pub.dev/packages/i18nstr/versions/0.0.1
+
 在pubspec.yaml中：
 ```json
 dependencies:
-    i18nstr: 0.01
+    i18nstr: 0.0.1
 flutter:
    assets:
     - ./i18n/
@@ -48,6 +50,10 @@ flutter:
  
  在main.dart中：
  ```dart
+
+import 'package:i18nstr/i18nstr.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+
 //设定 初始化默认语言，
 I18nDelegate _i18nDelegate = new I18nDelegate(Locale('zh', 'CN'));
 //设定null，初始化语言是 手机语言设置中的支持语言列表第一个 
