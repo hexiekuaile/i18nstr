@@ -2,7 +2,10 @@
 
 一个flutter国际化插件
 https://pub.dev/packages/i18nstr/versions/0.0.1
+
 https://github.com/hexiekuaile/i18nstr
+
+https://blog.csdn.net/hexiekuaile/article/details/105476173
 ## 特性
 
 可用于web、Android ，iOS未测试。
@@ -121,9 +124,5 @@ class _HomePageState extends State<HomePage> {
                 },
               ),
 ```
- 
-![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hleGlla3VhaWxlL2kxOG5zdHIvbWFzdGVyL2V4YW1wbGUvaW1hZ2VzLzEucG5n?x-oss-process=image/format,png)
-![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hleGlla3VhaWxlL2kxOG5zdHIvbWFzdGVyL2V4YW1wbGUvaW1hZ2VzLzIucG5n?x-oss-process=image/format,png)
-![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hleGlla3VhaWxlL2kxOG5zdHIvbWFzdGVyL2V4YW1wbGUvaW1hZ2VzLzMucG5n?x-oss-process=image/format,png)
- 
+ ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hleGlla3VhaWxlL2kxOG5zdHIvbWFzdGVyL2V4YW1wbGUvaW1hZ2VzLzEucG5n?x-oss-process=image/format,png)
       
