@@ -5,7 +5,7 @@ https://pub.dev/packages/i18nstr/versions/0.0.1
 
 https://github.com/hexiekuaile/i18nstr
 
-https://blog.csdn.net/hexiekuaile/article/details/105476173
+https://blog.csdn.net/hexiekuaile/article/details/105476173  （有图片）
 ## 特性
 
 可用于web、Android ，iOS未测试。
@@ -124,5 +124,5 @@ class _HomePageState extends State<HomePage> {
                 },
               ),
 ```
- ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hleGlla3VhaWxlL2kxOG5zdHIvbWFzdGVyL2V4YW1wbGUvaW1hZ2VzLzEucG5n?x-oss-process=image/format,png)
+
       
